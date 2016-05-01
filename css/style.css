@@ -1,0 +1,83 @@
+  body {
+      position: relative;
+  }
+.h1c{
+  color: #3201FB;
+}
+#pageTitle{
+  font-family: 'Lato', sans-serif;
+}
+#aboutLink{
+  font-family: 'Lato', sans-serif;
+  color: #FFF;
+}
+
+#jumbo {
+  margin-bottom:0px;
+  background-color: #5ABFDF;
+  color: #FFF;
+  padding-top:0px;
+  padding-bottom:25px;
+
+}
+#myPic {
+  padding:10px;
+}
+#ulLogo{
+  padding:25px;
+}
+
+#aboutLink:hover{
+    background-color: #5ABFDF;
+    color: #337ab7;
+}
+  #section1 {padding-top:50px; margin-bottom:25px;height:400px;color: #ADADAD; background-color: #FFF; font-family: 'Lato', sans-serif;}
+  #section2 {padding-top:50px; margin-bottom:25px;height:450px;color: #ADADAD; background-color: #FFF;font-family: 'Lato', sans-serif;}
+  #section3 {padding-top:50px; margin-bottom:25px;height:400px;color: #ADADAD; background-color: #FFF;font-family: 'Lato', sans-serif;}
+  #section4 {padding-top:50px; margin-bottom:0px;height:400px;color: #fff; background-color: #5ABFDF;font-family: 'Lato', sans-serif;}
+
+  .content {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  #projectHead {
+    margin-left: 5%;
+  }
+    .card {
+      text-align: center;
+      vertical-align: middle;
+      padding: .5em;
+  }
+  .outline {
+      padding: 5em;
+      background-size: 100% auto;
+      height: 200px;
+  }
+  .outline h3 {
+      vertical-align: middle;
+      margin-top: 10px;
+      visibility: visible;
+      opacity: .75;
+      color: #337ab7;
+      background-color: #FFF;
+      ba
+      text-shadow:    
+         -1px -1px #fff,  
+          1px -1px #fff,
+          -1px 1px #fff,
+           1px 1px #fff;
+  }
+  .outline:hover h3{
+      color: #193a57;
+      opacity: 1;
+      visibility: visible;
+      text-shadow:    
+         -1px -1px #fff,  
+          1px -1px #fff,
+          -1px 1px #fff,
+           1px 1px #fff;
+  }
+  .outline:hover a{
+      color: #337ab7;
+  }
